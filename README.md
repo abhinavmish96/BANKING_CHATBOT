@@ -1,4 +1,4 @@
-# Learning to build a chatbot via use Watson Assistant.
+# Learning to build a chatbot via use of Watson Assistant.
 
 # Create a banking chatbot with FAQ discovery, anger detection and natural language understanding
 
