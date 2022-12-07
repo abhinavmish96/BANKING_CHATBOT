@@ -10,10 +10,10 @@
     "unit": "istanbul cover _mocha test/unit -- -R spec"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "cfenv": "^1.2.2",
     "dotenv": "^6.2.0",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "http": "0.0.0",
     "https": "^1.0.0",
     "numeral": "^2.0.6",
